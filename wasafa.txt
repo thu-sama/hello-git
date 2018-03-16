@@ -4,3 +4,4 @@ added new line from github
 company 1
 company 2
 added 1
+added 2
